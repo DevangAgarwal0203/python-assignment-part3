@@ -1,0 +1,7 @@
+Topic 1: Variables store data. Python is dynamically typed.
+Topic 2: Lists are ordered and mutable.
+Topic 3: Dictionaries store key-value pairs.
+Topic 4: Loops automate repetitive tasks.
+Topic 5: Exception handling prevents crashes.
+Topic 6: Functions make code reusable and easier to read.
+Topic 7: Modules let you split code into separate files.
